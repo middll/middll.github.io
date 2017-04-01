@@ -16,7 +16,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'PT Serif', 'Lora', 'Times New Roman', serif;
+  font-family: 'Merriweather', 'Lora', 'Times New Roman', serif;
   font-weight: 300;
 }
 a {
@@ -47,11 +47,11 @@ hr.small {
   left: 0;
   width: 100%;
   z-index: 3;
-  font-family: 'PT Serif', 'Lora', 'Times New Roman', serif;
+  font-family: 'Merriweather', 'Lora', 'Times New Roman', serif;
 }
 .navbar-custom .navbar-brand {
   font-size: 25px;
-  font-weight: 800;
+  font-weight: 700;
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
@@ -192,7 +192,7 @@ hr.small {
   font-weight: 300;
 }
 .intro-header .post-heading .meta {
-  font-family: 'PT Serif', 'Lora', 'Times New Roman', serif;
+  font-family: 'Merriweather', 'Lora', 'Times New Roman', serif;
   font-style: italic;
   font-weight: 300;
   font-size: 20px;
