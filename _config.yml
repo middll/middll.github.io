@@ -1,0 +1,25 @@
+# Site settings
+title: middll
+header-img: img/home-bg.jpg
+email: middll@protonmail.com
+copyright_name: middll
+description: "A source for people to learn about political agendas and marketing."
+baseurl: ""
+url: "https://middll.github.io"
+twitter_username: middll_tweets
+github_username:
+facebook_username:
+email_username: 
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
